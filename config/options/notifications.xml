@@ -1,0 +1,7 @@
+<application>
+  <component name="NotificationConfiguration">
+    <toolWindow group="Find in Path" />
+    <toolWindow group="Vcs Messages" />
+    <toolWindow group="Inspection Results" />
+  </component>
+</application>

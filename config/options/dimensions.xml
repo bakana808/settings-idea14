@@ -1,0 +1,17 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="2880" y="533" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="233" y="276" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="331" />
+    <location key="OptionsEditor.0.0.1920.1080" x="622" y="113" />
+    <location key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.0.0.1920.1080" x="540" y="173" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.1920.1080" x="797" y="408" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="602" y="176" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.1920.1080" x="714" y="221" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="717" y="388" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="716" y="315" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="273" />
+    <location key="new project wizard.0.0.1920.1080" x="585" y="148" />
+    <size key="javadoc.popup.0.0.1920.1080" width="502" height="126" />
+  </component>
+</application>
