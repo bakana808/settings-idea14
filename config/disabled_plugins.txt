@@ -1,0 +1,7 @@
+CVS
+TestNG-J
+hg4idea
+Subversion
+Coverage
+Git4Idea
+org.jetbrains.plugins.github

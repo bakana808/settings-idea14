@@ -1,0 +1,12 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>Vector</find>
+      <find>array</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>MVector3D</replace>
+      <replace>va</replace>
+    </replaceStrings>
+  </component>
+</application>
